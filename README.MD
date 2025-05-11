@@ -1,9 +1,11 @@
 ### Hi there, I'm Jason Lin 👋 
 
-## I'm a Fullstack Developer!
+## I'm a Senior Fullstack Developer!
 
-- I'm currently learning everything 🤣
-- I'm focusing on complicated frontend-focused web application
+- 7 years frontend experience
+- 4 year backend experience
+- 6 years C/C++, 3 years java, 7 years JavaScript
+- I'm focusing on payment, financial, e-comercial and blockchain-based systems
 
 ### Connect with me:
 
