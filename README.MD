@@ -11,5 +11,5 @@
 
 [LinkedIn](https://www.linkedin.com/in/jasonlin666/)
 
-### Problem solving skills:
+### My Problem solving skills:
 ![](SkillSet.jpeg)
